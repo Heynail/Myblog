@@ -1,0 +1,23 @@
+/*
+elements design 
+by zhanghainan
+*/
+.a-li{
+    display: inline-block;
+    padding: 8px 20px;
+}
+.i-logo{
+    width: 100px;
+    height: 100px;
+    background-image: url(../images/tuzi.png);
+    background-position: -100px -100px;
+    background-size: 50% ;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
