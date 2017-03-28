@@ -1,0 +1,27 @@
+/* 
+by zhanghainan
+qq:723339130
+*/
+html,body,div,h1,h2,h3,h4,h5,h6,p,ul,li,article,aside,section,nav,header,main,footer,img,span{
+    margin: 0px;padding: 0px;
+    outline: 1px dotted green;  /*for layout test*/
+    background-repeat: no-repeat;
+    clear: both;
+}
+/*
+block elements remove default padding and margin
+*/
+ul,li{
+    list-style: none;
+}
+a,a:link,a:visited,a:hover,a:active{
+    text-decoration: none;
+}
+
+img{
+    vertical-align: baseline;
+}
+
+i{
+    display: inline-block;
+}
